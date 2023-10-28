@@ -45,7 +45,8 @@ for line in text.splitlines():
 ````
 ## Output:
 
-![Uploading image.png…]()
+![image](https://github.com/Thenmozhi-Palanisamy/Experiment-5--Implementation-of-Speech-Recognition/assets/95198708/ff59a564-09f7-4e44-81a1-7dd9b85605fd)
+
 
 
 ## Result:
